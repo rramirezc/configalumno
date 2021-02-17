@@ -12,4 +12,4 @@ eureka:
     health-check-url-path: /healthAlumno
     metadata-map:
        app-owner: rjrc
-       description: course microservice
+       description: microservice alumno
